@@ -1,6 +1,6 @@
 <!-- markdownlint-disable -->
 <h1 align="center">
-  # Buy Python Machine Learning & Data Science Capstone Projects. (EDA, Modelling, Python code, Report and Web Development.)
+  # Buy Python - Machine Learning & Data Science Capstone Projects. (EDA, Modelling, Python code, Report and Web Development.)
     <br>
 </h1>
 <p align="center">
